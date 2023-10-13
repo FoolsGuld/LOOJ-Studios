@@ -936,6 +936,30 @@ PrefabInstance:
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Play
       objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_Maskable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156249581675786483, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
+      propertyPath: m_FillCenter
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7033234164697465493, guid: e99ab3d1ded276d42a9dd759c0912aa2, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
